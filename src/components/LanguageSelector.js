@@ -4,7 +4,6 @@ function LanguageSelector({ label, selectedLang, onChange }) {
   const languages = [
     { code: "en", name: "English" },
     { code: "es", name: "Spanish" },
-    // Add more languages as needed
   ];
 
   return (

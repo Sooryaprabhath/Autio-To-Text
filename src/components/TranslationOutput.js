@@ -1,19 +1,3 @@
-// import React from "react";
-
-// function TranslationOutput({ originalText, translatedText }) {
-//   return (
-//     <div>
-//       <h2>Original Text:</h2>
-//       <p>{originalText}</p>
-//       <h2>Translated Text:</h2>
-//       <p>{translatedText}</p>
-//       {/* Add audio output using Text-to-Speech here */}
-//     </div>
-//   );
-// }
-
-// export default TranslationOutput;
-
 import React from "react";
 
 function TranslationOutput({ text }) {

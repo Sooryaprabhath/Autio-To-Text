@@ -11,9 +11,9 @@ function SentimentFeedback({ text }) {
 
   return (
     <div className="mt-4">
-      <h3 className="text-lg font-semibold text-gray-800">
+      {/* <h3 className="text-lg font-semibold text-gray-800">
         Sentiment Feedback:
-      </h3>
+      </h3> */}
       <p
         className={`mt-2 p-4 rounded-md shadow-sm ${
           feedback.includes("Negative")
